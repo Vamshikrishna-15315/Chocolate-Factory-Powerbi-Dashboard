@@ -81,30 +81,30 @@ This dashboard helps businesses to:
 - Support data-driven decisions
 
 🚀 How to Use
-Download the .pbix file.
-Open it using Power BI Desktop.
-Refresh the data if required.
-Use filters and visuals to explore insights.
+- Download the .pbix file.
+- Open it using Power BI Desktop.
+- Refresh the data if required.
+- Use filters and visuals to explore insights.
 
 💻 Requirements
-Power BI Desktop
-Microsoft Excel (Optional)
+ - Power BI Desktop
+ - Microsoft Excel (Optional)
 
 🔮 Future Improvements
-Add profit analysis
-Add yearly comparison
-Add forecasting
-Add drill-through pages
-Include regional analysis
+ - Add profit analysis
+ - Add yearly comparison
+ - Add forecasting
+ - Add drill-through pages
+ - Include regional analysis
 
 👤 Author
-Vamshi Krishna
-Electronics and Communication Engineering Graduate
+ Vamshi Krishna
+ Electronics and Communication Engineering Graduate
 
-Interested in:
-Data Analytics
-Power BI
-Business Intelligence
+ Interested in:
+ Data Analytics
+ Power BI
+ Business Intelligence
 
-📜 License
-This project is intended for educational and portfolio purposes.
+ 📜 License
+ This project is intended for educational and portfolio purposes.
