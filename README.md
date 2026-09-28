@@ -101,7 +101,7 @@ This dashboard helps businesses to:
  - Vamshi Krishna
  - Electronics and Communication Engineering Graduate
 
-  Interested in:
+   Interested in:
  - Data Analytics
  - Power BI
  - Business Intelligence
