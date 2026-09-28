@@ -98,13 +98,13 @@ This dashboard helps businesses to:
  - Include regional analysis
 
 👤 Author
- Vamshi Krishna
- Electronics and Communication Engineering Graduate
+ - Vamshi Krishna
+ - Electronics and Communication Engineering Graduate
 
  Interested in:
- Data Analytics
- Power BI
- Business Intelligence
+ - Data Analytics
+ - Power BI
+ - Business Intelligence
 
  📜 License
- This project is intended for educational and portfolio purposes.
+  - This project is intended for educational and portfolio purposes.
